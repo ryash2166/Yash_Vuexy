@@ -462,9 +462,9 @@ aside .aside-buttons .row-I-btns #dashbords ul li:nth-child(3) a::first-letter
     position: fixed;
     z-index: 10;
     top: 0%;
-    left: 290px;
+    left: 300px;
     margin: auto;
-    width:calc(100% - 25%);
+    width:calc(100% - 32.5rem);
     border-radius: 0px 0px 5px 5px ;
     padding: 19px 0px 0px 0px ;
 }
